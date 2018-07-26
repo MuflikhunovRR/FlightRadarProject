@@ -1,0 +1,1138 @@
+2018-07-26 19:37:31.017 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.018 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 13 minutes
+2018-07-26 19:37:31.018 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 03:15
+2018-07-26 19:37:31.018 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 03:02
+2018-07-26 19:37:31.018 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 156
+2018-07-26 19:37:31.018 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHISINAU
+2018-07-26 19:37:31.019 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.020 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.021 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -6 minutes
+2018-07-26 19:37:31.021 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 03:20
+2018-07-26 19:37:31.021 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 03:26
+2018-07-26 19:37:31.021 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 9U 177
+2018-07-26 19:37:31.021 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHISINAU
+2018-07-26 19:37:31.021 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.023 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.023 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -2 minutes
+2018-07-26 19:37:31.023 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 04:05
+2018-07-26 19:37:31.023 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 04:07
+2018-07-26 19:37:31.023 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 22
+2018-07-26 19:37:31.023 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.023 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.024 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.024 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -35 minutes
+2018-07-26 19:37:31.024 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 04:20
+2018-07-26 19:37:31.024 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 04:55
+2018-07-26 19:37:31.024 [main] INFO  ru.gotoqa.FlightHistory - Flight number: BA 237
+2018-07-26 19:37:31.024 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: LONDON
+2018-07-26 19:37:31.024 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.025 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.025 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -10 minutes
+2018-07-26 19:37:31.025 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 04:30
+2018-07-26 19:37:31.025 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 04:40
+2018-07-26 19:37:31.025 [main] INFO  ru.gotoqa.FlightHistory - Flight number: ZF 6692
+2018-07-26 19:37:31.025 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ISTANBUL
+2018-07-26 19:37:31.025 [main] INFO  ru.gotoqa.FlightHistory - Status : No Baggage Arrived Late
+2018-07-26 19:37:31.026 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.026 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 6 minutes
+2018-07-26 19:37:31.026 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:00
+2018-07-26 19:37:31.026 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 05:54
+2018-07-26 19:37:31.026 [main] INFO  ru.gotoqa.FlightHistory - Flight number: SQ 362
+2018-07-26 19:37:31.026 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SINGAPORE
+2018-07-26 19:37:31.026 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.027 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.027 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 26 minutes
+2018-07-26 19:37:31.027 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:10
+2018-07-26 19:37:31.027 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 05:44
+2018-07-26 19:37:31.027 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 96
+2018-07-26 19:37:31.027 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: UFA
+2018-07-26 19:37:31.028 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.028 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.028 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -58 minutes
+2018-07-26 19:37:31.029 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:25
+2018-07-26 19:37:31.029 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:23
+2018-07-26 19:37:31.029 [main] INFO  ru.gotoqa.FlightHistory - Flight number: TP 1232
+2018-07-26 19:37:31.029 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: LISBON
+2018-07-26 19:37:31.029 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.030 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.030 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 26 minutes
+2018-07-26 19:37:31.030 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:25
+2018-07-26 19:37:31.030 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 05:59
+2018-07-26 19:37:31.030 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 464
+2018-07-26 19:37:31.030 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: UFA
+2018-07-26 19:37:31.030 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.032 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.032 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -34 minutes
+2018-07-26 19:37:31.032 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:30
+2018-07-26 19:37:31.032 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:04
+2018-07-26 19:37:31.032 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 2804
+2018-07-26 19:37:31.032 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BISHKEK
+2018-07-26 19:37:31.032 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.033 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.033 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 22 minutes
+2018-07-26 19:37:31.033 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:30
+2018-07-26 19:37:31.033 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:08
+2018-07-26 19:37:31.034 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 70
+2018-07-26 19:37:31.034 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KAZAN
+2018-07-26 19:37:31.034 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.035 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.035 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 22 minutes
+2018-07-26 19:37:31.035 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:35
+2018-07-26 19:37:31.035 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:13
+2018-07-26 19:37:31.035 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 52
+2018-07-26 19:37:31.035 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: EKATERINBURG
+2018-07-26 19:37:31.035 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.036 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.036 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 15 minutes
+2018-07-26 19:37:31.036 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:45
+2018-07-26 19:37:31.036 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:30
+2018-07-26 19:37:31.036 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 30
+2018-07-26 19:37:31.036 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SAMARA
+2018-07-26 19:37:31.036 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.037 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.037 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 22 minutes
+2018-07-26 19:37:31.037 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:50
+2018-07-26 19:37:31.037 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:28
+2018-07-26 19:37:31.037 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 38
+2018-07-26 19:37:31.037 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 4 minutes
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:55
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:51
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 562
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: UFA
+2018-07-26 19:37:31.038 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.039 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.039 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 26 minutes
+2018-07-26 19:37:31.039 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 06:55
+2018-07-26 19:37:31.039 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:29
+2018-07-26 19:37:31.039 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 178
+2018-07-26 19:37:31.039 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVOSIBIRSK
+2018-07-26 19:37:31.039 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.040 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.040 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 15 minutes
+2018-07-26 19:37:31.040 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:00
+2018-07-26 19:37:31.040 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:45
+2018-07-26 19:37:31.040 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 212
+2018-07-26 19:37:31.040 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NIZHNEKAMSK
+2018-07-26 19:37:31.040 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.041 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.042 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 16 minutes
+2018-07-26 19:37:31.042 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:10
+2018-07-26 19:37:31.042 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:54
+2018-07-26 19:37:31.042 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 306
+2018-07-26 19:37:31.042 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: PERM
+2018-07-26 19:37:31.042 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.043 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.043 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 17 minutes
+2018-07-26 19:37:31.043 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:15
+2018-07-26 19:37:31.043 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 06:58
+2018-07-26 19:37:31.043 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 609
+2018-07-26 19:37:31.043 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHELYABINSK
+2018-07-26 19:37:31.043 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.044 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.044 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -8 minutes
+2018-07-26 19:37:31.044 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:20
+2018-07-26 19:37:31.044 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:28
+2018-07-26 19:37:31.044 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 6W 760
+2018-07-26 19:37:31.044 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SARATOV
+2018-07-26 19:37:31.044 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.045 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.045 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 5 minutes
+2018-07-26 19:37:31.045 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:20
+2018-07-26 19:37:31.045 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:15
+2018-07-26 19:37:31.045 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 264
+2018-07-26 19:37:31.045 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: EKATERINBURG
+2018-07-26 19:37:31.045 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.046 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.046 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 20 minutes
+2018-07-26 19:37:31.046 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:25
+2018-07-26 19:37:31.046 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:05
+2018-07-26 19:37:31.046 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 1160
+2018-07-26 19:37:31.046 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ROSTOV-ON-DON
+2018-07-26 19:37:31.046 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.047 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.047 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -33 minutes
+2018-07-26 19:37:31.047 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:25
+2018-07-26 19:37:31.048 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:58
+2018-07-26 19:37:31.048 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 810
+2018-07-26 19:37:31.048 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVOKUZNETSK
+2018-07-26 19:37:31.048 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.048 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.049 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 12 minutes
+2018-07-26 19:37:31.049 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:30
+2018-07-26 19:37:31.049 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:18
+2018-07-26 19:37:31.049 [main] INFO  ru.gotoqa.FlightHistory - Flight number: EY 065
+2018-07-26 19:37:31.049 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ABU DHABI
+2018-07-26 19:37:31.049 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.050 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.050 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 11 minutes
+2018-07-26 19:37:31.050 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:30
+2018-07-26 19:37:31.050 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:19
+2018-07-26 19:37:31.050 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YC 392
+2018-07-26 19:37:31.050 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KRASNOYARSK
+2018-07-26 19:37:31.050 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.051 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.051 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -3 minutes
+2018-07-26 19:37:31.051 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:30
+2018-07-26 19:37:31.051 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:33
+2018-07-26 19:37:31.051 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 1142
+2018-07-26 19:37:31.051 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KRASNODAR
+2018-07-26 19:37:31.051 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.052 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.053 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 33 minutes
+2018-07-26 19:37:31.055 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:35
+2018-07-26 19:37:31.055 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:02
+2018-07-26 19:37:31.055 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 246
+2018-07-26 19:37:31.055 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: PENZA
+2018-07-26 19:37:31.055 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.056 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.056 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 27 minutes
+2018-07-26 19:37:31.056 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:35
+2018-07-26 19:37:31.056 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:08
+2018-07-26 19:37:31.056 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 8
+2018-07-26 19:37:31.056 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHELYABINSK
+2018-07-26 19:37:31.056 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.057 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.057 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 21 minutes
+2018-07-26 19:37:31.057 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:35
+2018-07-26 19:37:31.057 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:14
+2018-07-26 19:37:31.057 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 202
+2018-07-26 19:37:31.057 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TYUMEN
+2018-07-26 19:37:31.057 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.058 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.058 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 17 minutes
+2018-07-26 19:37:31.058 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:35
+2018-07-26 19:37:31.058 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:18
+2018-07-26 19:37:31.058 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 168
+2018-07-26 19:37:31.058 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: OMSK
+2018-07-26 19:37:31.058 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.059 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.059 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 2 minutes
+2018-07-26 19:37:31.059 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:40
+2018-07-26 19:37:31.059 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:38
+2018-07-26 19:37:31.059 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 988
+2018-07-26 19:37:31.059 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: OSH
+2018-07-26 19:37:31.059 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.060 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.060 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.060 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:40
+2018-07-26 19:37:31.060 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:40
+2018-07-26 19:37:31.060 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 1022
+2018-07-26 19:37:31.060 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SOCHI
+2018-07-26 19:37:31.060 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.061 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.061 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -6 minutes
+2018-07-26 19:37:31.061 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:40
+2018-07-26 19:37:31.061 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:46
+2018-07-26 19:37:31.061 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 438
+2018-07-26 19:37:31.061 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVOSIBIRSK
+2018-07-26 19:37:31.061 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.062 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.062 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 39 minutes
+2018-07-26 19:37:31.062 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:45
+2018-07-26 19:37:31.062 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:06
+2018-07-26 19:37:31.062 [main] INFO  ru.gotoqa.FlightHistory - Flight number: ZF 778
+2018-07-26 19:37:31.062 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: PUNTA CANA
+2018-07-26 19:37:31.062 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.063 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.063 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -8 minutes
+2018-07-26 19:37:31.063 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:45
+2018-07-26 19:37:31.063 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:53
+2018-07-26 19:37:31.063 [main] INFO  ru.gotoqa.FlightHistory - Flight number: Y7 104
+2018-07-26 19:37:31.063 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NORILSK
+2018-07-26 19:37:31.063 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.064 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.064 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 12 minutes
+2018-07-26 19:37:31.064 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:55
+2018-07-26 19:37:31.064 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:43
+2018-07-26 19:37:31.064 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 652
+2018-07-26 19:37:31.064 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BARNAUL
+2018-07-26 19:37:31.064 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.065 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.065 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 13 minutes
+2018-07-26 19:37:31.065 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 07:55
+2018-07-26 19:37:31.065 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:42
+2018-07-26 19:37:31.066 [main] INFO  ru.gotoqa.FlightHistory - Flight number: I8 301
+2018-07-26 19:37:31.066 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: IZHEVSK
+2018-07-26 19:37:31.066 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.067 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.067 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -10 minutes
+2018-07-26 19:37:31.067 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:00
+2018-07-26 19:37:31.067 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:10
+2018-07-26 19:37:31.067 [main] INFO  ru.gotoqa.FlightHistory - Flight number: QR 223
+2018-07-26 19:37:31.067 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: DOHA
+2018-07-26 19:37:31.067 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.068 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.068 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -1 minutes
+2018-07-26 19:37:31.068 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:00
+2018-07-26 19:37:31.068 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:01
+2018-07-26 19:37:31.068 [main] INFO  ru.gotoqa.FlightHistory - Flight number: D2 161
+2018-07-26 19:37:31.068 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHEREPOVETS
+2018-07-26 19:37:31.068 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.069 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.069 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -2 minutes
+2018-07-26 19:37:31.069 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:00
+2018-07-26 19:37:31.069 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:02
+2018-07-26 19:37:31.069 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 12
+2018-07-26 19:37:31.069 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TOMSK
+2018-07-26 19:37:31.069 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -1 minutes
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:05
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:06
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Flight number: B2 983
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: MINSK
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -45 minutes
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:05
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:50
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 172
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KEMEROVO
+2018-07-26 19:37:31.070 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.071 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.071 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 7 minutes
+2018-07-26 19:37:31.071 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:10
+2018-07-26 19:37:31.071 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:03
+2018-07-26 19:37:31.071 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 908
+2018-07-26 19:37:31.071 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: YEREVAN
+2018-07-26 19:37:31.071 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.072 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.072 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 14 minutes
+2018-07-26 19:37:31.072 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:10
+2018-07-26 19:37:31.072 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:56
+2018-07-26 19:37:31.072 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 148
+2018-07-26 19:37:31.072 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ROSTOV-ON-DON
+2018-07-26 19:37:31.072 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -14 minutes
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:10
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:24
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YC 241
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TYUMEN
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived Late
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 16 minutes
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:15
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 07:59
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Flight number: RU 510
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: FRANKFURT
+2018-07-26 19:37:31.073 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived
+2018-07-26 19:37:31.074 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.074 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 5 minutes
+2018-07-26 19:37:31.074 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:15
+2018-07-26 19:37:31.074 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:10
+2018-07-26 19:37:31.074 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 72
+2018-07-26 19:37:31.074 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KRASNOYARSK
+2018-07-26 19:37:31.074 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 8 minutes
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:15
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:07
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 388
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: OMSK
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:20
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Flight number: RU 522
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BEIJING
+2018-07-26 19:37:31.075 [main] INFO  ru.gotoqa.FlightHistory - Status : Cancelled
+2018-07-26 19:37:31.076 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.076 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.076 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:20
+2018-07-26 19:37:31.076 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:20
+2018-07-26 19:37:31.076 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 812
+2018-07-26 19:37:31.076 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TOMSK
+2018-07-26 19:37:31.076 [main] INFO  ru.gotoqa.FlightHistory - Status : Bags delivered Arrived
+2018-07-26 19:37:31.077 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.077 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 10 minutes
+2018-07-26 19:37:31.077 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:20
+2018-07-26 19:37:31.077 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:10
+2018-07-26 19:37:31.077 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 99
+2018-07-26 19:37:31.077 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVOSIBIRSK
+2018-07-26 19:37:31.077 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.078 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.078 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -20 minutes
+2018-07-26 19:37:31.078 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:30
+2018-07-26 19:37:31.079 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:50
+2018-07-26 19:37:31.079 [main] INFO  ru.gotoqa.FlightHistory - Flight number: Y7 108
+2018-07-26 19:37:31.079 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KRASNOYARSK
+2018-07-26 19:37:31.079 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.079 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.079 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 19 minutes
+2018-07-26 19:37:31.080 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:35
+2018-07-26 19:37:31.080 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:16
+2018-07-26 19:37:31.080 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 218
+2018-07-26 19:37:31.080 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BARNAUL
+2018-07-26 19:37:31.080 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.081 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.081 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -6 minutes
+2018-07-26 19:37:31.081 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:35
+2018-07-26 19:37:31.081 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:41
+2018-07-26 19:37:31.081 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 124
+2018-07-26 19:37:31.081 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ABAKAN
+2018-07-26 19:37:31.081 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:35
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:35
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 426
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NIZHNEVARTOVSK
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -3 minutes
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:45
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:48
+2018-07-26 19:37:31.082 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 5N 115
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ARKHANGELSK
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 24 minutes
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:45
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:21
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 262
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: EKATERINBURG
+2018-07-26 19:37:31.083 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.084 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.084 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -10 minutes
+2018-07-26 19:37:31.084 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:45
+2018-07-26 19:37:31.084 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:55
+2018-07-26 19:37:31.084 [main] INFO  ru.gotoqa.FlightHistory - Flight number: Y7 102
+2018-07-26 19:37:31.084 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NORILSK
+2018-07-26 19:37:31.084 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 3 minutes
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:45
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:42
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 2254
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NORILSK
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -23 minutes
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:50
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:13
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 9U 173
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHISINAU
+2018-07-26 19:37:31.085 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.086 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.086 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -6 minutes
+2018-07-26 19:37:31.086 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:50
+2018-07-26 19:37:31.086 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:56
+2018-07-26 19:37:31.086 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 342
+2018-07-26 19:37:31.086 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TYUMEN
+2018-07-26 19:37:31.086 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -5 minutes
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 08:55
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:00
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 174
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVOSIBIRSK
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 26 minutes
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:05
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:39
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 106
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: IRKUTSK
+2018-07-26 19:37:31.087 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.088 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.088 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 12 minutes
+2018-07-26 19:37:31.088 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:05
+2018-07-26 19:37:31.088 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:53
+2018-07-26 19:37:31.088 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 2252
+2018-07-26 19:37:31.088 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NORILSK
+2018-07-26 19:37:31.088 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 10 minutes
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:10
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:00
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 256
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KRASNODAR
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 6 minutes
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:15
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:09
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YC 89
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVY URENGOJ
+2018-07-26 19:37:31.089 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -3 minutes
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:15
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:18
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 970
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ASHGABAT
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.090 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 3 minutes
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:20
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:17
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 968
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: OSH
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 31 minutes
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:30
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 08:59
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Flight number: HY 603
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TASHKENT
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.091 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 25 minutes
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:35
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:10
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 5N 522
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: MURMANSK
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 17 minutes
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:40
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:23
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Flight number: KO 746
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: USINSK
+2018-07-26 19:37:31.092 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -4 minutes
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:45
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:49
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Flight number: Y7 106
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NORILSK
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -4 minutes
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:45
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:49
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 960
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KHUDZHAND
+2018-07-26 19:37:31.093 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.094 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.094 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 9 minutes
+2018-07-26 19:37:31.094 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 09:50
+2018-07-26 19:37:31.094 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:41
+2018-07-26 19:37:31.094 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 20
+2018-07-26 19:37:31.094 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.094 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 23 minutes
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:00
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:37
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 122
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BRATSK
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -1 minutes
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:05
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:06
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Flight number: B2 957
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: MINSK
+2018-07-26 19:37:31.095 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 7 minutes
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:10
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:03
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YC 31
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SALEHARD
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -28 minutes
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:10
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:38
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 94
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHITA
+2018-07-26 19:37:31.096 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.097 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.097 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -3 minutes
+2018-07-26 19:37:31.097 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:10
+2018-07-26 19:37:31.097 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:13
+2018-07-26 19:37:31.097 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 186
+2018-07-26 19:37:31.097 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVOSIBIRSK
+2018-07-26 19:37:31.097 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 21 minutes
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:15
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 09:54
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YK 965
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: OSH
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 10 minutes
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:15
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:05
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 216
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: GORNO-ALTAJSK
+2018-07-26 19:37:31.098 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 8 minutes
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:15
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:07
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 6R 597
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: MIRNY
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 10 minutes
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:25
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:15
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 420
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVY URENGOJ
+2018-07-26 19:37:31.099 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -2 minutes
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:30
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:32
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YK 883
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BISHKEK
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 14 minutes
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:30
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:16
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Flight number: SZ 201
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: DUSHANBE
+2018-07-26 19:37:31.100 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 11 minutes
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:40
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:29
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 1122
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANAPA
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:40
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 2970
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KULYAB
+2018-07-26 19:37:31.101 [main] INFO  ru.gotoqa.FlightHistory - Status : Cancelled
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 41 minutes
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:45
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:04
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 118
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: CHITA
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:45
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Flight number: IO 201
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: OMSK
+2018-07-26 19:37:31.102 [main] INFO  ru.gotoqa.FlightHistory - Status : Cancelled
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 44 minutes
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:50
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:06
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 1004
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANTALYA
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -9 minutes
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:50
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:59
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YC 174
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NADYM
+2018-07-26 19:37:31.103 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.104 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.104 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 23 minutes
+2018-07-26 19:37:31.104 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:50
+2018-07-26 19:37:31.104 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:27
+2018-07-26 19:37:31.104 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 777
+2018-07-26 19:37:31.104 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: IRKUTSK
+2018-07-26 19:37:31.104 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 21 minutes
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:50
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:29
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 116
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ULAN-UDE
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -12 minutes
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:55
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:07
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 8886
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANTALYA
+2018-07-26 19:37:31.105 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.106 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.106 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 2 minutes
+2018-07-26 19:37:31.106 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 10:55
+2018-07-26 19:37:31.106 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:53
+2018-07-26 19:37:31.106 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 9630
+2018-07-26 19:37:31.106 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: DALAMAN
+2018-07-26 19:37:31.106 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -8 minutes
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:05
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:13
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Flight number: LX 1336
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: GENEVA
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 12 minutes
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:15
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:03
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Flight number: A3 490
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: IRAKLEION
+2018-07-26 19:37:31.107 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 18 minutes
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:15
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 10:57
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 264
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SIMFEROPOL
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:25
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Flight number: OZ 793
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SEOUL
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - Status : Cancelled
+2018-07-26 19:37:31.108 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 20 minutes
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:25
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:05
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Flight number: ZF 8886
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANTALYA
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 2 minutes
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:30
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:28
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 232
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: VORONEZH
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.109 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -4 minutes
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:35
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:39
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Flight number: IG 821
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: MILAN
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -14 minutes
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:35
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:49
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Flight number: Y7 7764
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BODRUM
+2018-07-26 19:37:31.110 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 3 minutes
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:35
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:32
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 48
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 15 minutes
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:40
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:25
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Flight number: ZF 7766
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: IRAKLEION
+2018-07-26 19:37:31.111 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 15 minutes
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:40
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:25
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 62
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KAZAN
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -6 minutes
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:45
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:51
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 3002
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANTALYA
+2018-07-26 19:37:31.112 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 32 minutes
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:45
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:13
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 6W 766
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SARATOV
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 7 minutes
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:50
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:43
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 110
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: YAKUTSK
+2018-07-26 19:37:31.113 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 5 minutes
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:50
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:45
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Flight number: HY 623
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KARSHI
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 8 minutes
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 11:55
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:47
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Flight number: QR 233
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: DOHA
+2018-07-26 19:37:31.114 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -12 minutes
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:00
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:12
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YC 9336
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: DALAMAN
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -46 minutes
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:00
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:46
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 274
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: PENZA
+2018-07-26 19:37:31.115 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -54 minutes
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:05
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:59
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 268
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SIMFEROPOL
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -2 minutes
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:05
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:07
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 250
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BRYANSK
+2018-07-26 19:37:31.116 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -45 minutes
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:10
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 11:55
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 773
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: IRKUTSK
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 5 minutes
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:10
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:05
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 4
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NIZHNIY NOVGOROD
+2018-07-26 19:37:31.117 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.127 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.127 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -30 minutes
+2018-07-26 19:37:31.127 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:10
+2018-07-26 19:37:31.127 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:40
+2018-07-26 19:37:31.127 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 184
+2018-07-26 19:37:31.127 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: NOVOSIBIRSK
+2018-07-26 19:37:31.127 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 12 minutes
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:15
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:03
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 526
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SIMFEROPOL
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.128 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -19 minutes
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:25
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:44
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Flight number: A3 880
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ATHENS
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -26 minutes
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:25
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:51
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Flight number: OZ 7911
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SEOUL
+2018-07-26 19:37:31.129 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 9 minutes
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:30
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:21
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 300
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BLAGOVESCHENSK
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -54 minutes
+2018-07-26 19:37:31.130 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:30
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:24
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Flight number: ZF 9956
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BARCELONA
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 5 minutes
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:35
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:30
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Flight number: ZF 7794
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: GAZIPASA
+2018-07-26 19:37:31.131 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:40
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:40
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - Flight number: LH 1444
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: FRANKFURT
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.132 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 18 minutes
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:40
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:22
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 270
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SIMFEROPOL
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 7 minutes
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:40
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:33
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 28
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SAMARA
+2018-07-26 19:37:31.133 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.134 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.134 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 11 minutes
+2018-07-26 19:37:31.134 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:45
+2018-07-26 19:37:31.134 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:34
+2018-07-26 19:37:31.134 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 16
+2018-07-26 19:37:31.134 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.134 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -13 minutes
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:50
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:03
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 772
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BOLOGNA
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -4 minutes
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:50
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:54
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 3540
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TIVAT
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 3 minutes
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 12:50
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 12:47
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Flight number: J2 852
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BAKU
+2018-07-26 19:37:31.135 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 9 minutes
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:20
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:11
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Flight number: G9 955
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SHARJAH
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -7 minutes
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:25
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:32
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Flight number: I8 305
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: IZHEVSK
+2018-07-26 19:37:31.136 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -8 minutes
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:30
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:38
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Flight number: SQ 361
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: STOCKHOLM
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 24 minutes
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:30
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:06
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Flight number: ZF 7734
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KRABI
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -1 minutes
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:35
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:36
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 1164
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: VOLGOGRAD
+2018-07-26 19:37:31.137 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -12 minutes
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:40
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:52
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YM 610
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TIVAT
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -9 minutes
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:40
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:49
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 1148
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KRASNODAR
+2018-07-26 19:37:31.138 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -12 minutes
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:45
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:57
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Flight number: OS 601
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: VIENNA
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -5 minutes
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:45
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:50
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 1126
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANAPA
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -2 minutes
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:50
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:52
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Flight number: EK 133
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: DUBAI
+2018-07-26 19:37:31.139 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -12 minutes
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:50
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:02
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Flight number: B2 951
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: MINSK
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -13 minutes
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 13:55
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:08
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Flight number: D2 169
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: APATITY
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -1 minutes
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:00
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:01
+2018-07-26 19:37:31.140 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GF 014
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BAHRAIN
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -2 minutes
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:00
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 15:02
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 9424
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BARCELONA
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -7 minutes
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:00
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:07
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 5640
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANTALYA
+2018-07-26 19:37:31.141 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.142 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.142 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 3 minutes
+2018-07-26 19:37:31.142 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:00
+2018-07-26 19:37:31.142 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:57
+2018-07-26 19:37:31.142 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 46
+2018-07-26 19:37:31.142 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.142 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -18 minutes
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:15
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:33
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Flight number: SN 2835
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: BRUSSELS
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 21 minutes
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:15
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:54
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 4284
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SABETTA
+2018-07-26 19:37:31.143 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 12 minutes
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:15
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:03
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Flight number: S7 302
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: PERM
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -1 minutes
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:15
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:16
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 372
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: KALININGRAD
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.144 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -27 minutes
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:30
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:57
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 9334
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANTALYA
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 21 minutes
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:30
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 13:09
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Flight number: YC 9386
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANTALYA
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 7 minutes
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:35
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:28
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Flight number: BA 233
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: LONDON
+2018-07-26 19:37:31.145 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Delay time: -10 minutes
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:40
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:50
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Flight number: 6R 624
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Late Bags delivered
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 5 minutes
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:50
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:45
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Flight number: WZ 126
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SOCHI
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 4 minutes
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:55
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:51
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 3502
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: LARNACA
+2018-07-26 19:37:31.146 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 21 minutes
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:55
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:34
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 164
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: SIMFEROPOL
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 0 minutes
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:55
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:55
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Flight number: GH 5046
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ST. PETERSBURG
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 15 minutes
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 14:55
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:40
+2018-07-26 19:37:31.147 [main] INFO  ru.gotoqa.FlightHistory - Flight number: U6 144
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: ANAPA
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - --------
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Upper time: 45 minutes
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Planned time: 26 May 2018 15:00
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Actual time: 26 May 2018 14:15
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Flight number: JL 421
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Departure airport: TOKYO
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Status : Arrived Bags delivered
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - ---------------------------------
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - All flights: 161
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Arrived flights: 157
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Cancelled flights: 4
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Delay fly: 65 airFlights
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - Total delay : -899 minutes
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - ---------------------------------
+2018-07-26 19:37:31.148 [main] INFO  ru.gotoqa.FlightHistory - ru.gotoqa.FlightHistory
+2018-07-26 19:37:31.149 [main] INFO  ru.gotoqa.FlightHistory - org.apache.logging.log4j.message.ParameterizedMessageFactory@30a3107a
+2018-07-26 19:37:31.149 [main] INFO  ru.gotoqa.FlightHistory - DEBUG
+2018-07-26 19:37:31.149 [main] INFO  ru.gotoqa.FlightHistory - true
